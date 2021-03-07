@@ -1,6 +1,6 @@
 ### Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-### 🔭 I’m currently working on: panther.js, check it out: https://github.com/RaGn4RoK379/panther.js
+### 🔭 I’m currently working on: Nothing right now
 
 ## &#x1f4c8; GitHub Stats
 
