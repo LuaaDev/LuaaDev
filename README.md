@@ -1,6 +1,6 @@
 ### Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-### 🔭 I’m currently working on: Nothing right now
+### 🔭 I’m currently working on: Something special :)
 
 ## &#x1f4c8; GitHub Stats
 
